@@ -1,0 +1,6 @@
+*.jar
+*.txt
+*.log
+*.zip
+*.gz
+log/*.log
